@@ -2,11 +2,28 @@ package br.com.cursos.model;
 
 import java.time.LocalDateTime;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
+
+@Entity
 public class Curso {
-    private String nome;
     
+	@Id
+	@GeneratedValue
+	private Integer id;
+	
+	@Column(name = "nm_curso", length = 100, nullable = false)
+	private String nome;
+    
+	@Column(name = "valor", precision = 12, scale = 2)
     private Double preco;
     
+    @OneToOne
+    @JoinColumn(name= "id_arquivo")
     private Arquivo arquivo;
     
     private LocalDateTime criadoEm;
