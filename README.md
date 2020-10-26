@@ -24,7 +24,7 @@ O Projeto desenvolvido é de uma plataforma básica de venda de cursos com auten
 ### Diagrama do Projeto
 
 <h2 align="center">
-    <img alt="WinterCamp" title="#WinterCamp" src="./assets/diagrama.png" />
+    <img alt="Diagrama" title="#Diagrama" src="./assets/Diagrama.png" />
 </h2>
 
 ### Telas do Projeto
