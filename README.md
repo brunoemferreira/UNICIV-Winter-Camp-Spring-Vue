@@ -1,7 +1,9 @@
 <h1 align="center">
     <img alt="WinterCamp" title="#WinterCamp" src="./assets/wintercamplogo.png" />
 </h1>
-
+<h2 align="center">🚧 Em Desenvolvimento 🚧</h2>
+<h3 align="center">Início : 19/10/2020 - Término : 23/10/2020 - Desenvolvimento do BackEnd em Java com Spring</h3>
+<h3 align="center">Início : 26/10/2020 - Término : 30/10/2020 - Desenvolvimento do FrontEnd com Vue.js</h3>
 <h1 align="center">Bootcamp Java Spring Boot + Vue.js</h1>
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 ## 💻 Sobre o projeto
 
-Descrição do Projeto
+O Projeto desenvolvido é de uma plataforma básica de Cursos
 
 ### Web
 
