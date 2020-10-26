@@ -19,9 +19,15 @@
 
 ## 💻 Sobre o projeto
 
-O Projeto desenvolvido é de uma plataforma básica de Cursos
+O Projeto desenvolvido é de uma plataforma básica de venda de cursos com autenticação.
 
-### Web
+### Diagrama do Projeto
+
+<h2 align="center">
+    <img alt="WinterCamp" title="#WinterCamp" src="./assets/diagrama.png" />
+</h2>
+
+### Telas do Projeto
 
 ## 🛠 Tecnologias
 
@@ -36,3 +42,33 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vue.Js](https://vuejs.org/)
 
 ## 🚀 Como executar o projeto
+
+Podemos considerar este projeto como sendo divido em duas partes:
+
+1. Back End (pasta backend)
+2. Front End (pasta frontend)
+
+💡 O Front End precisa que o Back End esteja sendo executado para funcionar.
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Java 11]().
+Além disto é bom ter um editor para trabalhar com o código como [VSCode]()
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunoemferreira/UNICIV-Winter-Camp-Spring-Vue.git
+
+# O servidor inciará na porta:8080
+```
+
+### 🧭 Rodando a aplicação web (Front End)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunoemferreira/UNICIV-Winter-Camp-Spring-Vue.git
+
+```
